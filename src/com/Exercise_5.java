@@ -17,6 +17,5 @@ public class Exercise_5 {
             case 7 -> System.out.println("Friday");
             default -> System.out.println("Invalid Input");
         }
-
     }
 }
