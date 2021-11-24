@@ -1,6 +1,5 @@
 package com;
 
-import java.util.Locale;
 import java.util.Scanner;
 
 public class Exercise_8 {
